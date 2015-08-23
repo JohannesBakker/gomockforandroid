@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- round corner for welcome screen -->
+    <color name="gomock_white">#ffffff</color>
+
+</resources>
